@@ -1,2 +1,2 @@
 # fa15_cs161
-Projects for CS161 took in UC Berkeley Fall 2015.
+Projects for CS161 in UC Berkeley Fall 2015.
